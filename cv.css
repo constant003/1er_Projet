@@ -1,0 +1,76 @@
+.page{
+    width: 780px;
+    margin: auto;
+    font-family: "source sans pro", Calibri, Tahoma, sans-serif;
+    font-size: 16px;
+}
+
+.infophoto{
+    height: 250px;
+
+}
+
+.photo{
+    float: right;
+}
+
+.info{
+    font-size: 20px;
+   /* float: left;  */
+    color: rgb(29, 6, 179);
+}
+
+.autres{
+    margin-bottom: 30px;
+    text-align: justify;
+
+}
+
+.a-langue{
+    margin-left: 300px;
+}
+
+.s-qualite{
+    margin-top: -230px;
+    margin-right: 200px;
+}
+
+.w-niveau{
+    
+    margin-top: -125px;
+    margin-left: 450px;
+}
+
+.section{
+    margin-bottom: 30px;
+    text-align: justify;
+}
+
+.sec-gauche{
+    float: left;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.sec-droit{
+    margin-left: 200px;
+    margin-top: 40px;
+}
+
+h2{
+    
+    text-shadow: 5px 3px 0px #d5f156dc; ;
+    font-size: 28;
+    color: #3388BB;
+    border-bottom: 3px solid #3388BB;
+}
+
+.titre{
+    font-weight: bold;
+    font-size: 20px;
+}
+
+#exp-prof p{
+    margin-bottom: 80px;
+}
+ 
