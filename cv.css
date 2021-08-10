@@ -10,15 +10,11 @@
 
 .infophoto{
     height: 250px;
-    background-color: rgb(172, 241, 42);
 
 }
 
 .photo{
     float: right;
-    border-color: blue;
-    border-style: ridge;
-    border-width: 5px;
 }
 
 .info{
