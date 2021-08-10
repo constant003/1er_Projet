@@ -4,6 +4,9 @@
     font-family: "source sans pro", Calibri, Tahoma, sans-serif;
     font-size: 16px;
 }
+.body{
+    margin: 5px;
+}
 
 .infophoto{
     height: 250px;
