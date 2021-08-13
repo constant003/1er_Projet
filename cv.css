@@ -15,11 +15,12 @@
 
 .photo{
     float: right;
+    margin-top: 25px; /*pour faire deplacer haut/bas*/
 }
 
 .info{
     font-size: 20px;
-   /* float: left; */ 
+    /* float: left;  */
     color: rgb(29, 6, 179);
 }
 
@@ -50,14 +51,14 @@
 }
 
 .sec-gauche{
-    float: left;
+    /* float: left; */
     font-weight: bold;
     font-size: 20px;
 }
 
 .sec-droit{
     margin-left: 200px;
-    margin-top: 40px;
+    margin-top: -316px;
 }
 
 h2{
