@@ -6,6 +6,7 @@
 }
 .body{
     padding: 5px;
+    width: 100%;
 }
 
 .infophoto{
@@ -59,6 +60,11 @@
 .sec-droit{
     margin-left: 200px;
     margin-top: -316px;
+}
+
+.sec-droit-f{
+    margin-left: 200px;
+    margin-top: -423px;
 }
 
 h2{
