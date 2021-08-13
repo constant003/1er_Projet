@@ -10,6 +10,7 @@
 
 .infophoto{
     height: 250px;
+    background-color: rgb(185, 243, 245);
 
 }
 
@@ -72,6 +73,7 @@ h2{
     font-size: 28;
     color: #3388BB;
     border-bottom: 3px solid #3388BB;
+    background-color: rgb(185, 243, 245);
 }
 
 .titre{
